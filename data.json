@@ -1,0 +1,9 @@
+{
+  "status": "ready",
+  "project": "AWS Website",
+  "services": [
+    "frontend",
+    "backend",
+    "deployment"
+  ]
+}
