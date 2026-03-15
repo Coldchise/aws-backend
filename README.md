@@ -1,7 +1,3 @@
-# AWS Backend
-
-Backend scaffold for the AWS-hosted website. This repository provides a lightweight Python starting point with configuration, local data, dependency tracking, and a branching model aligned with the frontend repository.
-
 ## File Structure
 
 ```text
